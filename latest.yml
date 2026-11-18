@@ -1,0 +1,8 @@
+version: 0.1.15
+files:
+  - url: https://github.com/ahsaniphone946-cyber/batchclips-/releases/download/v0.1.15/BatchClips-Setup-0.1.15.exe
+    sha512: NhzKntTDm+rjaTrs3NRxv2SvhcFynfS1Q030WTzzULD95HWgW9AIPZ4yHJHS6TWM0e8ZldR5UMAOn97QurL7pQ==
+    size: 289113939
+path: BatchClips-Setup-0.1.15.exe
+sha512: NhzKntTDm+rjaTrs3NRxv2SvhcFynfS1Q030WTzzULD95HWgW9AIPZ4yHJHS6TWM0e8ZldR5UMAOn97QurL7pQ==
+releaseDate: '2026-09-21T08:27:44.642Z'
